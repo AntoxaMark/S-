@@ -1,0 +1,16 @@
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\obj\Debug\net6.0\prog002.GlobalUsings.g.cs
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\obj\Debug\net6.0\prog002.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\obj\Debug\net6.0\prog002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\obj\Debug\net6.0\prog002.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\obj\Debug\net6.0\prog002.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\obj\Debug\net6.0\prog002.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\bin\Debug\net6.0\prog002.exe
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\bin\Debug\net6.0\prog002.deps.json
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\bin\Debug\net6.0\prog002.runtimeconfig.json
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\bin\Debug\net6.0\prog002.dll
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\bin\Debug\net6.0\ref\prog002.dll
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\bin\Debug\net6.0\prog002.pdb
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\obj\Debug\net6.0\prog002.dll
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\obj\Debug\net6.0\ref\prog002.dll
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\obj\Debug\net6.0\prog002.pdb
+C:\Users\Антон\Desktop\Sharp_seminar\prog002\obj\Debug\net6.0\prog002.genruntimeconfig.cache
